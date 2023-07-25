@@ -12,7 +12,7 @@ const config = {
 	kit: {
 		adapter: adapter({ fallback: '404.html' }),
 		paths: {
-			base: process.env.NODE_ENV === 'production' ? base : 'Portfolio-Jerry'
+			base: process.env.NODE_ENV === 'production' ? base : 'Portfolio-Jerry/',
 		}
 	}
 };
