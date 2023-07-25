@@ -51,7 +51,7 @@ export const HOME: HomePageParams = {
 		
 		{
 			platform: Platform.Linkedin,
-			link: 'https://www.linkedin.com/in/riadh-adrani-63884b155/'
+			link: 'https://www.linkedin.com/in/jerry-vargas-63884b155/'
 		},
 		{
 			platform: Platform.Email,
